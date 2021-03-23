@@ -1,4 +1,4 @@
- If any two numbers in a given input array sum up to target sum.. our function should return them in an array..
+If any two numbers in a given input array sum up to target sum.. our function should return them in an array..
 
 1.Sort the given array.
 2.Considering two pointers(eg: left and right), left pointer pointing to first index and right
